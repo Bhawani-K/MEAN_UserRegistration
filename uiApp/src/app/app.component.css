@@ -1,0 +1,9 @@
+img{
+    height: 50px;
+    width: 50px;
+    position: relative;
+}
+.navItems{
+    position: absolute;
+    right:10px;   /* must be equal to parent's right padding */
+}
